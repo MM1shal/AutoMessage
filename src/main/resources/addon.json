@@ -1,0 +1,9 @@
+{
+  "name": "Auto Send Message",
+  "description": "Auto Send Message after certain seconds",
+  "author": "M1shal",
+  "icon": "https://spongepowered.org/assets/img/icons/spongie-mark.png",
+
+  "uuid": "%uuid%",
+  "mainClass": "SA.M1shal.AutoMessage.Main"
+}
